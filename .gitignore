@@ -59,3 +59,12 @@ typings/
 
 # next.js build output
 .next
+
+# misc
+.DS_Store
+*.log
+haters/
+.next/
+.build/
+layout.md
+variables.env
